@@ -1,0 +1,13 @@
+
+U
+java:S1874"3Remove this use of "isConnected"; it is deprecated.(¿•àÄşÿÿÿÿ8àŒªŸ/
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(äÊãøÿÿÿÿ
+^
+java:S1874"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(¿•àÄşÿÿÿÿ8àŒªŸ/
+W
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(“èÆÅ8Ä„«ªŸ/
+J	java:S108")Either remove or fill this block of code.(Ê‰¬åÿÿÿÿÿ8Ä„«ªŸ/
+^
+java:S1874"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(¿•àÄşÿÿÿÿ8àŒªŸ/
+h
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(Ê‰¬åÿÿÿÿÿ8Ä„«ªŸ/
